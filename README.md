@@ -18,8 +18,8 @@
 ### The challenge
 
 - Build simple counter with INCREMENT and SAVE button
-- INCREMENT must increment numbers, one by one, on a <h2> tag
-- SAVE must show a history of total entries on a <p> tag
+- INCREMENT must increment numbers, one by one, on a "h2" tag
+- SAVE must show a history of total entries on a "p" tag
 
 ### Screenshot
 

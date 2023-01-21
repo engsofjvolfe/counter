@@ -96,6 +96,10 @@ button:active {
 }
 
 @media screen and (min-width: 576px) {
+  body{
+    padding: 2rem 0;
+    overflow: visible;
+  }
   button {
     padding: 1rem 0;
   }
